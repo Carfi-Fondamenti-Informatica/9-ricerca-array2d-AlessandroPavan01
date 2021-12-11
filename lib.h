@@ -1,6 +1,3 @@
-//
-// Created by Alessandro on 11/12/2021.
-//
 
 #ifndef ESERCITAZIONE9_LIB_H
 #define ESERCITAZIONE9_LIB_H
